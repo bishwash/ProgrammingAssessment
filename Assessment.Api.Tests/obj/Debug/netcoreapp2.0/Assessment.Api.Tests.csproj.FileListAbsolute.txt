@@ -1,0 +1,17 @@
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Assessment.Api.Tests.deps.json
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Assessment.Api.Tests.runtimeconfig.json
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Assessment.Api.Tests.runtimeconfig.dev.json
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Assessment.Api.Tests.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Assessment.Api.Tests.pdb
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\obj\Debug\netcoreapp2.0\Assessment.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\obj\Debug\netcoreapp2.0\Assessment.Api.Tests.AssemblyInfoInputs.cache
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\obj\Debug\netcoreapp2.0\Assessment.Api.Tests.AssemblyInfo.cs
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\obj\Debug\netcoreapp2.0\Assessment.Api.Tests.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\obj\Debug\netcoreapp2.0\Assessment.Api.Tests.pdb
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Assessment.Api.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\bin\Debug\netcoreapp2.0\Assessment.Api.pdb
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\obj\Debug\netcoreapp2.0\Assessment.Api.Tests.csproj.CopyComplete
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api.Tests\obj\Debug\netcoreapp2.0\Assessment.Api.Tests.csprojAssemblyReference.cache

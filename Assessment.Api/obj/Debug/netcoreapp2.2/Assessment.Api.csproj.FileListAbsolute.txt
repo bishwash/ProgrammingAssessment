@@ -1,0 +1,14 @@
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\bin\Debug\netcoreapp2.2\Assessment.Api.deps.json
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\bin\Debug\netcoreapp2.2\Assessment.Api.runtimeconfig.json
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\bin\Debug\netcoreapp2.2\Assessment.Api.runtimeconfig.dev.json
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\bin\Debug\netcoreapp2.2\Assessment.Api.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\bin\Debug\netcoreapp2.2\Assessment.Api.pdb
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.csproj.CoreCompileInputs.cache
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.RazorAssemblyInfo.cache
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.RazorAssemblyInfo.cs
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.AssemblyInfoInputs.cache
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.AssemblyInfo.cs
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.RazorTargetAssemblyInfo.cache
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.dll
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.pdb
+C:\Users\bishwash\source\repos\ProgrammingAssessment\Assessment.Api\obj\Debug\netcoreapp2.2\Assessment.Api.csprojAssemblyReference.cache
