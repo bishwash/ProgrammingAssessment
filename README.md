@@ -40,3 +40,7 @@ Add ApiLocation as a global settings somewhere in the application.
 Add more test cases for api testing
 Add validation to client application form
 
+//Added run-api.bat for starting the api
+//Added run-client.bat for starting the website
+
+
