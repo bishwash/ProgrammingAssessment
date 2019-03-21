@@ -26,6 +26,7 @@
     </div>
 </template>
 <script>
+    
     import axios from "axios";
     import StudentList from './StudentList.vue'
     export default {
@@ -46,17 +47,17 @@
             
             postStudent: function () {
                 var vm = this;
-                console.log("test");
+                var slist = this.studentList;
                 axios
-                    .post('http://localhost:49627/api/v1/students', 
+                    .post('http://localhost:7000/api/v1/students', 
                        {
                             firstName: this.input.firstName,
                             lastName: this.input.lastName,
                             gpa: this.input.gpa,
                             dob: this.input.dob
                     }).then(function (response) {
-                        vm.$forceUpdate();
                         vm.message = 'Student Added successfully';
+                        vm.emitStudentAddedEvent();
                     })
                     .catch(function (error) {
                         if (error.response.status == 400) {
@@ -70,6 +71,10 @@
                             vm.message = error.response.data.message;
                         }
                     })
+            },
+            emitStudentAddedEvent() {
+                console.log("Event emmitted");
+                this.$eventHub.$emit('student-added','');
             }
         },
         components: {
